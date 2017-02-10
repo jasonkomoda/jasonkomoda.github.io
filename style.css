@@ -1,0 +1,95 @@
+body {
+  background-color: #99b3ff;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.gamelink{
+  color: blue;
+  font-size: 200%;
+}
+
+.aboutmePar {
+  font-size: 150%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 400%
+}
+
+.navElement{
+  font-weight: bold;
+  font-style: italic;
+  font-size: 125%;
+}
+
+.contactPar{
+  font-size: 125%;
+}
+
+.welcome {
+  text-align: center;
+  font-size: 300%;
+}
+
+.nav {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.aside li{
+  list-style-type: none;
+  font-size: 150%;
+}
+
+.linkedinLink{
+  color: blue;
+  font-style: italic;
+  font-size: 100%;
+}
+
+
+.fontsize150{
+  font-size: 150%;
+}
+
+.nav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+a:link{
+  text-decoration: none;
+}
+
+.blue{
+  color: blue;
+}
+
+nav a:hover{
+  font-style: italic;
+  background-color: black;
+}
+
+footer{
+  text-align: center;
+  bottom: 0;
+  clear: left;
+}
+
+.maxWidth{
+  max-width: 100%;
+}
+
+.italic{
+  font-style: italic;
+}
+.row{
+  margin-top: 5%;
+}
